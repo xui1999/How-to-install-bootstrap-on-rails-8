@@ -3,7 +3,7 @@
 ## JS
 run:
 ```
-importmap pin "bootstrap"
+bin/importmap pin "bootstrap"
 ```
 It will add 2 pins to your `config/importmap.rb` file.
 
