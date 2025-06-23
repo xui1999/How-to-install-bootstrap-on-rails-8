@@ -28,7 +28,7 @@ run
 bundle install
 rails dartsass:install
 ```
-This command `dartsass:install` will rewrite the `bin/dev` file, adding an attempt to install the foreman gem and so it can use afterwards. But there is a good chance that it will not install the foreman gem.
+This command `dartsass:install` will rewrite the `bin/dev` file, adding an attempt to install the foreman gem so it can use afterwards. But there is a good chance that it will not install the foreman gem.
 
 Install foreman gem locally if you need it. **Don't put it on the gem file!**
 ```
