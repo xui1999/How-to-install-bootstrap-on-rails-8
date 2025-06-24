@@ -1,5 +1,9 @@
 # How to install bootstrap on rails 8
 
+## Caution:
+Do not use Importmaps — it won't include the Popper files.<br>
+If you want Poppers follow my other guide: [How to install bootstrap on Rails 8 using esbuild](https://github.com/xui1999/How-to-install-bootstrap-on-Rails-8-using-esbuild)
+
 ## JS
 run:
 ```
